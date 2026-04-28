@@ -1,6 +1,6 @@
 Package: biocroxytest
 Title: Handle Long Tests in Bioconductor Packages
-Version: 1.7.0
+Version: 1.8.0
 Authors@R: 
     c(person(given = "Francesc",
              family = "Catala-Moll",
